@@ -38,7 +38,7 @@ I am Into,
 ### - Languages and Tools...
 
 <p align="center">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JAVA-Dark.svg"alt="Twitter" width="50px" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg"alt="Twitter" width="50px" style="vertical-align:top; margin:4px">
  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" alt="Twitter" width="50px" style="vertical-align:top; margin:4px">
  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" alt="Twitter" width="50px" style="vertical-align:top; margin:4px">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" alt="Twitter" width="50px" style="vertical-align:top; margin:4px">
